@@ -1,0 +1,102 @@
+{
+  "name": "Cyber Security",
+  "children": [
+    {
+      "name": "Pentesting",
+      "children": [
+        {
+         "name": "PTES (Pentest Standard)",
+         "type": "url",
+         "url": "http://www.pentest-standard.org/index.php/Main_Page"
+       },
+       {
+         "name": "Cyber Kill Chain "
+       }
+     ]
+    },
+    {
+      "name": "RedTeam",
+      "children": [
+       {
+        "name": "Exploitaion",
+        "children": [
+          {
+           "name": "MITRE",
+           "type": "url",
+           "url": "https://attack.mitre.org/"
+         },
+         {
+           "name": "Exploit-DB",
+           "type": "url",
+           "url": "https://www.exploit-db.com/"
+         },
+         {
+           "name": "Exploit-DB",
+           "type": "url",
+           "url": "https://www.exploit-db.com/"
+         },
+         {
+           "name": "Packet Storm Security",
+           "type": "url",
+           "url": "https://packetstormsecurity.com/"
+         },
+         {
+           "name": "Packet Storm Security",
+           "type": "url",
+           "url": "https://packetstormsecurity.com/"
+         },
+         {
+           "name": "Security Focus",
+           "type": "url",
+           "url": "https://www.securityfocus.com/"
+         },
+         {
+           "name": "OWASP",
+           "type": "url",
+           "url": "https://www.owasp.org/index.php/Main_Page"
+         },
+         {
+           "name": "0day today - E-commerce de Exploit",
+           "type": "url",
+           "url": "  http://0day.today/"
+         },
+         {
+          "name": "Low-Hanging Fuits Tool",
+          "type": "url",
+          "url": "https://github.com/blindfuzzy/LHF"
+        }
+      ]
+      },{
+        "name": "Recon",
+        "children": [ {
+          "name": "OSINT Framework",
+          "type": "url",
+          "url": "https://osintframework.com"
+        }]
+      }
+    ]
+    }
+    ,
+    {"name": "BlueTeam"},
+    {
+      "name": "Securty News",
+      "children": [
+        {
+         "name": "The Hacker News",
+         "type": "url",
+         "url": "https://thehackernews.com/"
+       },
+       {
+         "name": "The Hack (PT-BR)",
+         "type": "url",
+         "url": "https://thehack.com.br/"
+       },
+       {
+        "name" : "Recorded Future",
+        "type": "url",
+        "url": "https://www.recordedfuture.com/"
+      }
+    ]
+    }
+  ]
+}
