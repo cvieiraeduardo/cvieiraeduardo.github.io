@@ -31,11 +31,6 @@
            "url": "https://www.exploit-db.com/"
          },
          {
-           "name": "Exploit-DB",
-           "type": "url",
-           "url": "https://www.exploit-db.com/"
-         },
-         {
            "name": "Packet Storm Security",
            "type": "url",
            "url": "https://packetstormsecurity.com/"
